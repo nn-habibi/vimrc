@@ -12,3 +12,9 @@ Termux yang ada pada Google Play Store adalah versi lawas (saat menulis ini vers
 Menginstal termux versi baru dilakukan melalui laman resmi termux (https://termux.com/). Atau secara langsung mengunduhnya melalui F-Droid (https://f-droid.org/en/packages/com.termux/).
 
 Unduh paketnya lalu install. Setelah terinstall lakukan update repositori dan upgrade aplikasi (tidak wajib jika termux bisa berjalan normal).
+
+### Mengubah Shell
+
+Shell bawaan termux adalah bash. Cara mengecek shell yang sedang digunakan dengan perintah
+echo $SHELL
+Cobalah fish dan rasakan kemudahannya!
