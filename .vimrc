@@ -18,7 +18,7 @@ call plug#begin()
 	" tema untuk vim-airline
 	
 	Plug 'flazz/vim-colorschemes'
-	colorscheme nord
+	colorscheme monokai-phoenix
 	" pengaturan warna
 	
 	Plug 'scrooloose/nerdtree'
